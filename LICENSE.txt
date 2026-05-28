@@ -32,4 +32,4 @@ adobe-acrobat, acrobat-pro, pdf-editor, ocr, adobe-acrobat-2026, acrobat-dc, pdf
 
 Copyright (c) 2026 Contributors. MIT License.
 
-Provided AS IS without warranty. Use at your own risk.           
+Provided AS IS without warranty. Use at your own risk.            
